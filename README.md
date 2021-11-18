@@ -21,3 +21,6 @@
 -    Self-Expression-Sharing
 
 **Project will use R scripts to compute data analytics/statistics and present data visuals**
+
+# Link to survey
+https://forms.office.com/r/NzwAvzvZNx
